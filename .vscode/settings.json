@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "Assayag",
+        "Budgety",
+        "Diaz",
+        "IIFE",
+        "Miki",
+        "Perc",
+        "Schmedtmann",
+        "cala",
+        "forkify",
+        "icome",
+        "itemid",
+        "orassayag",
+        "uniqid"
+    ],
+    "cSpell.ignorePaths": [
+        "07/polyfill.min.js",
+        "07/script-transpiled.js",
+        "package-lock.json",
+    ],
+}
